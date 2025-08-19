@@ -96,3 +96,5 @@ class Apteka:
 
 a = Apteka()
 a.menyu()
+
+# man telegram bot larni ham yarata olaman hamda SQl boyicha tushuncham bor albatta hozirda Najot talimda oqiyman mani qilgan loyihalarimni korib chiqing
